@@ -85,4 +85,4 @@ def single_prediction(image_path):
     print(pred_csv)
 
 # Test single prediction
-single_prediction("test_images/Apple_ceder_apple_rust.JPG")
+single_prediction("Apple_ceder_apple_rust.JPG")
